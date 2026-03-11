@@ -7,11 +7,11 @@ Accurate power prediction is essential for assessing wind turbine performance un
 ##  📌 Cite
 Ahsan, Muhammad, and Phong Ba Dao. 2026. "Multi-Channel SCADA-Based Image-Driven Power Prediction for Wind Turbines Using Optimized LeNet-5-LSTM Hybrid Neural Architecture" Energies 19, no. 5: 1169. https://doi.org/10.3390/en19051169
 
-## 📊 Datasets Used
+## 📊 Published Data Sources
 Followings are the project webpage, published paper, and datasets utilized for this project:
 
 * **[Project]**: [SCADA-based condition monitoring and fault detection of wind turbines].  
-    🔗 **Link:** [[DOI](https://m-ahsan09.github.io/project-SCADA-WT.html)]
+    🔗 **Link:** [[Project Webpage](https://m-ahsan09.github.io/project-SCADA-WT.html)]
   
 * **[Paper]**: [Multi-Channel SCADA-Based Image-Driven Power Prediction for Wind Turbines Using Optimized LeNet-5-LSTM Hybrid Neural Architecture].  
     🔗 **Link:** [[DOI](https://doi.org/10.3390/en19051169)]
