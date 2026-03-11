@@ -1,4 +1,4 @@
-# Project Title: Development of an integrated framework for SCADA-based condition monitoring and fault detection of wind turbines, incorporating image analysis and trend monitoring techniques.
+## Project Title: Development of an integrated framework for SCADA-based condition monitoring and fault detection of wind turbines, incorporating image analysis and trend monitoring techniques.
 This repository contains the official implementation and source code for the research project.
 
 ## 📌 Paper: Multi-Channel SCADA-Based Image-Driven Power Prediction for Wind Turbines Using Optimized LeNet-5-LSTM Hybrid Neural Architecture
